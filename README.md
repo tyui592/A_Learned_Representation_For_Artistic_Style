@@ -12,6 +12,7 @@ A Learned Representation For Artistic Style
   - Style: ./imgs/style (manually collected images)
     ![style_images](./imgs/styles.jpg)
     - The `style_index` starts in order from the top left (0 ~ 15).
+  - Trained Model Weights: [Link](https://github.com/tyui592/A_Learned_Representation_For_Artistic_Style/releases/download/v1.0/model.ckpt)
 
 ### Example Scripts
 
